@@ -1,0 +1,49 @@
+degree,delay,guard,queries,accepted,stale_release,oracle_valid,valid_rejected
+1,1,Latest only,2048,0,0,1774,1774
+1,1,Row,2048,1957,183,1774,0
+1,1,Row + weights,2048,1877,103,1774,0
+1,1,Row + weights + context,2048,1778,4,1774,0
+1,1,Full contract,2048,1774,0,1774,0
+1,1,Unchecked,2048,2048,274,1774,0
+1,4,Latest only,2024,0,0,1107,1107
+1,4,Row,2024,1652,546,1107,1
+1,4,Row + weights,2024,1383,277,1107,1
+1,4,Row + weights + context,2024,1113,7,1107,1
+1,4,Full contract,2024,1106,0,1107,1
+1,4,Unchecked,2024,2024,917,1107,0
+1,8,Latest only,1992,0,0,607,607
+1,8,Row,1992,1327,721,607,1
+1,8,Row + weights,1992,927,321,607,1
+1,8,Row + weights + context,1992,609,3,607,1
+1,8,Full contract,1992,606,0,607,1
+1,8,Unchecked,1992,1992,1385,607,0
+1,16,Latest only,1928,0,0,152,152
+1,16,Row,1928,879,728,152,1
+1,16,Row + weights,1928,398,247,152,1
+1,16,Row + weights + context,1928,156,5,152,1
+1,16,Full contract,1928,151,0,152,1
+1,16,Unchecked,1928,1928,1776,152,0
+3,1,Latest only,2048,0,0,1183,1183
+3,1,Row,2048,1363,180,1183,0
+3,1,Row + weights,2048,1294,111,1183,0
+3,1,Row + weights + context,2048,1185,2,1183,0
+3,1,Full contract,2048,1183,0,1183,0
+3,1,Unchecked,2048,2048,865,1183,0
+3,4,Latest only,2024,0,0,213,213
+3,4,Row,2024,404,191,213,0
+3,4,Row + weights,2024,319,106,213,0
+3,4,Row + weights + context,2024,214,1,213,0
+3,4,Full contract,2024,213,0,213,0
+3,4,Unchecked,2024,2024,1811,213,0
+3,8,Latest only,1992,0,0,20,20
+3,8,Row,1992,85,65,20,0
+3,8,Row + weights,1992,54,34,20,0
+3,8,Row + weights + context,1992,20,0,20,0
+3,8,Full contract,1992,20,0,20,0
+3,8,Unchecked,1992,1992,1972,20,0
+3,16,Latest only,1928,0,0,0,0
+3,16,Row,1928,4,4,0,0
+3,16,Row + weights,1928,3,3,0,0
+3,16,Row + weights + context,1928,0,0,0,0
+3,16,Full contract,1928,0,0,0,0
+3,16,Unchecked,1928,1928,1928,0,0

@@ -1,0 +1,25 @@
+{
+  "quantiles_us": {
+    "cpu": [
+      20.3,
+      27.6,
+      36.6
+    ],
+    "cuda": [
+      107.1,
+      132.71999999999989,
+      259.39800000000014
+    ]
+  },
+  "mean_board_w": {
+    "idle": 11.847946259032826,
+    "cpu": 10.079830475521451,
+    "cuda": 25.40774142577275
+  },
+  "samples_per_device": 2880,
+  "max_output_difference_px": 1.52587890625e-05,
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU",
+  "torch": "2.7.1+cu128",
+  "driver_note": "NVML device 0; float32; TF32 disabled; whole discrete board",
+  "platform": "Windows-11-10.0.26300-SP0"
+}

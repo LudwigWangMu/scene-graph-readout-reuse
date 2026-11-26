@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+cache/
+mcube-cache/
+libero-cache/
+*.tmp

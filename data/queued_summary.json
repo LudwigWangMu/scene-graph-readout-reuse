@@ -1,0 +1,44 @@
+{
+  "queue": {
+    "full": {
+      "samples": 3600,
+      "p50_p95_p99_ms": [
+        0.1119,
+        0.2501349999999998,
+        0.30920999999999976
+      ],
+      "max_ms": 0.5706
+    },
+    "local": {
+      "samples": 3600,
+      "p50_p95_p99_ms": [
+        0.1652,
+        0.38070499999999996,
+        0.44600599999999985
+      ],
+      "max_ms": 0.936
+    }
+  },
+  "output_delta": 1.0658141036401503e-14,
+  "directed_tests": 327,
+  "accepted": 1,
+  "unchecked_stale": 326,
+  "accepted_stale": 0,
+  "events_per_design": {
+    "rewire": 66,
+    "old_or_duplicate": 58,
+    "replace_id": 14,
+    "aux_change": 8,
+    "weights": 4
+  },
+  "sparse": {
+    "releases": 327,
+    "accepted": 220,
+    "unchecked_stale": 107,
+    "accepted_stale": 0
+  },
+  "sparse_layer_delta": 4.440892098500626e-16,
+  "layer_delta": 5.273559366969494e-16,
+  "numpy": "2.5.5",
+  "platform": "Windows-11-10.0.26300-SP0"
+}
