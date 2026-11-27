@@ -1,0 +1,67 @@
+cff-version: 1.2.0
+message: To cite the manuscript associated with this reproducibility release, use the preferred citation below.
+title: Reusing Scene-Graph Readouts Across Asynchronous Robot Updates (reproducibility materials)
+authors:
+- given-names: Yilun
+  family-names: Wu
+  affiliation: Shenzhen Kaihong Digital Industry Development Co., Ltd.
+  email: wuyilun310@gmail.com
+  orcid: https://orcid.org/0000-0001-5169-4864
+- given-names: Ying
+  family-names: Liu
+  affiliation: Southern University of Science and Technology
+  email: Liuy63@sustech.edu.cn
+  orcid: https://orcid.org/0000-0001-6016-3184
+- given-names: Yunjian
+  family-names: Zhang
+  affiliation: Shenzhen Kaihong Digital Industry Development Co., Ltd.
+  email: yunjzhang@xmu.edu.cn
+  orcid: https://orcid.org/0000-0002-0303-3671
+- given-names: Aobo
+  family-names: Li
+  affiliation: Shenzhen Kaihong Digital Industry Development Co., Ltd.
+  email: ali09@qub.ac.uk
+  orcid: https://orcid.org/0009-0001-6868-9495
+- given-names: Mu-Jiang-Shan
+  family-names: Wang
+  affiliation: Shenzhen Kaihong Digital Industry Development Co., Ltd. and Harbin Institute of Technology
+  email: wangmujiangshan-qy@kaihong.com
+  orcid: https://orcid.org/0000-0003-0950-4558
+contact:
+- given-names: Mu-Jiang-Shan
+  family-names: Wang
+  affiliation: Shenzhen Kaihong Digital Industry Development Co., Ltd. and Harbin Institute of Technology
+  email: wangmujiangshan-qy@kaihong.com
+  orcid: https://orcid.org/0000-0003-0950-4558
+repository-code: https://github.com/LudwigWangMu/scene-graph-readout-reuse
+version: 1.0.1
+preferred-citation:
+  type: unpublished
+  title: Reusing Scene-Graph Readouts Across Asynchronous Robot Updates
+  authors:
+  - given-names: Yilun
+    family-names: Wu
+    affiliation: Shenzhen Kaihong Digital Industry Development Co., Ltd.
+    email: wuyilun310@gmail.com
+    orcid: https://orcid.org/0000-0001-5169-4864
+  - given-names: Ying
+    family-names: Liu
+    affiliation: Southern University of Science and Technology
+    email: Liuy63@sustech.edu.cn
+    orcid: https://orcid.org/0000-0001-6016-3184
+  - given-names: Yunjian
+    family-names: Zhang
+    affiliation: Shenzhen Kaihong Digital Industry Development Co., Ltd.
+    email: yunjzhang@xmu.edu.cn
+    orcid: https://orcid.org/0000-0002-0303-3671
+  - given-names: Aobo
+    family-names: Li
+    affiliation: Shenzhen Kaihong Digital Industry Development Co., Ltd.
+    email: ali09@qub.ac.uk
+    orcid: https://orcid.org/0009-0001-6868-9495
+  - given-names: Mu-Jiang-Shan
+    family-names: Wang
+    affiliation: Shenzhen Kaihong Digital Industry Development Co., Ltd. and Harbin Institute of Technology
+    email: wangmujiangshan-qy@kaihong.com
+    orcid: https://orcid.org/0000-0003-0950-4558
+  year: 2026
